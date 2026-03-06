@@ -75,11 +75,6 @@ Currently working on my university graduation project.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chop1k&theme=dark&show_icons=true)
-
----
-
 ## 🌱 Currently Learning
 - IoT
 - Information security
